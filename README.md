@@ -1,7 +1,7 @@
 # Co-operative or Selfish behaviour?
 ## Aim:
 re-implimenting and create an original extenstion to the paper 'Individual Selection for Cooperative Group Formation' by Simon Powers. 
-
+https://serval.unil.ch/resource/serval:BIB_413131BF9889.P001/REF.
 ## Project Description:
 This project is about re-implimenting the paper 'Individual Selection for Cooperative Group Formation' by Simon Powers. 
 The paper simulates behaviour of 4 different types of individuals. These are cooperative/selfish behaviour combined with small-grouping/large-group perference. It was found (from the given parameters) that cooperative behaviour combined with small-grouping preference was the best strategy.
